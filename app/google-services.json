@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791513603230",
+    "project_id": "cuchareableapp-715b7",
+    "storage_bucket": "cuchareableapp-715b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791513603230:android:6ea5d3b078bdc7f68a6f8f",
+        "android_client_info": {
+          "package_name": "com.example.cuchareableapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpsfJZ429ucabExubTQATrT6QH_2fUCLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
